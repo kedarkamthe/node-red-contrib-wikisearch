@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-wikisearch",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A node which get information from Wiki based on filters provided using Open Search API",
   "author": "Kedar Kamthe <kedarkamthe2006@gmail.com> (https://www.kedarkamthe.com)",
   "repository": "kedarkamthe/node-red-contrib-wikisearch",
@@ -12,5 +12,6 @@
     "nodes": {
       "wikisearch": "wikisearch.js"
     }
-  }
+  },
+  "license": "MIT"
 }
