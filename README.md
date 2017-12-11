@@ -1,3 +1,4 @@
+[![npm](https://img.shields.io/npm/v/node-red-contrib-wikisearch.svg)](https://www.npmjs.com/package/node-red-contrib-wikisearch) [![node-red-contrib-wikisearch](https://img.shields.io/badge/Node--RED-wikisearch-brightgreen.svg)](https://flows.nodered.org/node/node-red-contrib-wikisearch) [![Github All Releases](https://img.shields.io/github/downloads/kedarkamthe/node-red-contrib-wikisearch/total.svg)](https://github.com/kedarkamthe/node-red-contrib-wikisearch)
 
 # node-red-contrib-wikisearch
 
